@@ -7,7 +7,7 @@
         "mautic/core-lib": "^5.1",        
         "symfony/amazon-mailer": "^6.0",
         "teknasyon-teknoloji/aws-ses-notification": "^2.0",
-        "friendsofsymfony/oauth-server-bundle": "dev-upgrade-2 as 1.7.x-dev"
+        "friendsofsymfony/oauth-server-bundle": "2.0.x-dev"
     },
     "license": "GPL-3.0-or-later",
     "keywords": [
